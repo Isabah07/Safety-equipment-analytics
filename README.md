@@ -2,7 +2,7 @@
 
 An independent BI project simulating the data platform of a fire & life
 safety inspection company (equipment inspections, compliance tracking,
-technician performance, and incident/risk reporting) — the same kind of
+technician performance, and incident/risk reporting) which is the same kind of
 reporting a Business Intelligence team supports at a safety solutions
 provider like Levitt-Safety.
 
