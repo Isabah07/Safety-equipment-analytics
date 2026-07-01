@@ -6,7 +6,7 @@ technician performance, and incident/risk reporting) which is the same kind of
 reporting a Business Intelligence team supports at a safety solutions
 provider like Levitt-Safety.
 
-## What this demonstrates
+## Project Demonstrates the Following
 
 - **Relational data modeling** — 7-table schema (Customers, Sites,
   Equipment, Inspections, Technicians, Incidents, TrainingSessions)
