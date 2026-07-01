@@ -1,0 +1,190 @@
+SessionID,CustomerID,TrainingType,SessionDate,AttendeeCount,PassRate
+1,1,"First Aid & CPR",2024-12-28,26,0.78
+2,2,"Emergency Evacuation",2024-10-26,30,0.91
+3,2,WHMIS,2026-05-05,31,0.9
+4,2,"Confined Space Entry",2024-09-11,29,0.93
+5,3,WHMIS,2025-04-08,6,0.88
+6,3,"Fire Extinguisher Use",2025-03-30,14,0.75
+7,3,WHMIS,2024-04-14,40,0.85
+8,4,"Confined Space Entry",2026-02-17,27,0.81
+9,5,"Confined Space Entry",2025-07-13,22,0.78
+10,5,"Confined Space Entry",2026-03-19,37,0.94
+11,5,"Confined Space Entry",2025-02-13,22,0.88
+12,6,"First Aid & CPR",2024-05-20,7,1.0
+13,7,"Emergency Evacuation",2026-02-09,35,0.88
+14,7,"First Aid & CPR",2024-01-23,9,0.91
+15,7,"Fire Extinguisher Use",2024-11-03,9,0.77
+16,9,"Confined Space Entry",2025-10-17,27,0.95
+17,10,"Fire Extinguisher Use",2024-08-26,31,0.8
+18,11,WHMIS,2024-07-10,5,1.0
+19,11,WHMIS,2024-11-24,7,0.89
+20,11,"First Aid & CPR",2024-12-06,11,0.94
+21,13,WHMIS,2026-02-07,28,0.83
+22,14,"Fire Extinguisher Use",2025-09-23,21,0.77
+23,15,"Emergency Evacuation",2025-12-14,7,0.82
+24,15,"Confined Space Entry",2025-03-02,6,0.85
+25,17,"Fire Extinguisher Use",2026-03-01,35,0.88
+26,17,"Confined Space Entry",2025-07-05,21,0.89
+27,17,"Fire Extinguisher Use",2025-07-13,39,0.89
+28,19,"Confined Space Entry",2024-05-28,34,0.77
+29,19,"First Aid & CPR",2024-10-04,10,0.85
+30,19,"Emergency Evacuation",2026-05-09,11,0.83
+31,20,"First Aid & CPR",2024-09-28,30,0.89
+32,21,"Confined Space Entry",2025-07-16,30,0.86
+33,22,"Fire Extinguisher Use",2024-12-01,24,0.84
+34,22,WHMIS,2026-04-02,21,0.91
+35,22,"Fire Extinguisher Use",2025-09-20,12,0.78
+36,23,"First Aid & CPR",2025-01-04,8,0.81
+37,24,WHMIS,2024-04-26,7,0.77
+38,24,"First Aid & CPR",2025-11-30,10,0.93
+39,24,"Confined Space Entry",2025-07-04,19,0.94
+40,25,"First Aid & CPR",2024-11-17,18,0.81
+41,25,"Fire Extinguisher Use",2025-06-11,13,0.89
+42,25,WHMIS,2025-09-05,25,0.76
+43,26,"Fire Extinguisher Use",2024-01-26,5,0.9
+44,26,"Emergency Evacuation",2024-11-01,24,0.88
+45,26,"Emergency Evacuation",2024-02-18,21,0.82
+46,27,WHMIS,2026-03-15,29,0.98
+47,27,"Confined Space Entry",2025-03-21,40,0.86
+48,27,"Fire Extinguisher Use",2024-11-30,31,0.95
+49,28,"Fire Extinguisher Use",2026-04-19,15,0.95
+50,28,WHMIS,2025-03-09,24,0.97
+51,29,WHMIS,2025-07-04,33,0.97
+52,29,WHMIS,2026-02-25,33,0.83
+53,29,"Emergency Evacuation",2026-03-11,19,0.88
+54,31,"Emergency Evacuation",2026-05-27,13,0.95
+55,31,"First Aid & CPR",2026-06-15,21,0.85
+56,31,"Emergency Evacuation",2026-02-27,13,0.85
+57,32,"Fire Extinguisher Use",2025-02-10,8,0.91
+58,32,"Emergency Evacuation",2024-02-24,27,0.75
+59,33,"Emergency Evacuation",2024-05-01,15,0.79
+60,33,"Emergency Evacuation",2026-02-19,23,0.95
+61,33,"First Aid & CPR",2025-12-11,32,0.91
+62,34,"Emergency Evacuation",2026-02-21,30,0.83
+63,34,"First Aid & CPR",2024-01-29,9,0.78
+64,35,"Fire Extinguisher Use",2024-04-04,22,0.84
+65,36,"Confined Space Entry",2025-10-16,39,0.85
+66,36,"Fire Extinguisher Use",2026-02-17,8,0.98
+67,39,"First Aid & CPR",2025-05-07,38,0.93
+68,39,"Emergency Evacuation",2024-07-19,40,0.97
+69,39,"Confined Space Entry",2025-09-01,16,0.97
+70,40,"Fire Extinguisher Use",2026-04-01,33,0.82
+71,40,"First Aid & CPR",2026-03-22,13,0.82
+72,41,"Fire Extinguisher Use",2024-05-30,32,0.93
+73,42,"Emergency Evacuation",2025-06-25,8,0.81
+74,43,"Emergency Evacuation",2025-03-16,26,0.84
+75,43,"Confined Space Entry",2024-02-19,29,0.87
+76,43,"Emergency Evacuation",2025-01-12,27,1.0
+77,44,"Emergency Evacuation",2024-05-06,24,0.92
+78,45,WHMIS,2026-06-18,37,0.81
+79,46,"Fire Extinguisher Use",2025-11-23,8,0.99
+80,46,WHMIS,2025-10-30,21,0.84
+81,47,"Emergency Evacuation",2026-06-09,26,0.8
+82,47,"Fire Extinguisher Use",2024-05-23,9,0.99
+83,47,"First Aid & CPR",2024-10-19,14,0.94
+84,48,"First Aid & CPR",2025-03-24,10,0.98
+85,48,"Emergency Evacuation",2024-09-05,30,0.92
+86,48,"First Aid & CPR",2024-06-22,15,0.76
+87,49,"Fire Extinguisher Use",2025-05-01,15,0.84
+88,49,"Confined Space Entry",2024-03-03,5,0.95
+89,49,"Confined Space Entry",2026-03-13,9,0.85
+90,50,WHMIS,2024-12-02,7,0.93
+91,51,"First Aid & CPR",2025-09-15,7,1.0
+92,52,"Confined Space Entry",2025-05-30,25,0.96
+93,53,WHMIS,2026-05-18,19,0.81
+94,53,"Fire Extinguisher Use",2024-02-06,24,0.96
+95,56,"First Aid & CPR",2025-06-01,33,0.82
+96,56,"First Aid & CPR",2024-12-19,9,1.0
+97,56,WHMIS,2024-09-17,22,0.98
+98,57,WHMIS,2025-03-13,21,0.76
+99,57,"Emergency Evacuation",2026-04-19,39,0.88
+100,58,"First Aid & CPR",2025-09-09,9,0.9
+101,58,"Confined Space Entry",2024-04-19,33,0.75
+102,59,"Confined Space Entry",2024-05-06,20,0.79
+103,59,"Confined Space Entry",2025-06-08,34,0.92
+104,60,"Confined Space Entry",2025-06-24,32,0.88
+105,60,"Confined Space Entry",2024-03-03,14,0.83
+106,60,"First Aid & CPR",2025-08-15,25,0.93
+107,61,WHMIS,2026-05-09,11,0.86
+108,61,WHMIS,2025-01-20,13,0.81
+109,61,"Confined Space Entry",2025-07-07,10,0.94
+110,62,"Emergency Evacuation",2024-10-01,21,0.78
+111,62,"Confined Space Entry",2025-10-26,18,0.81
+112,62,"Emergency Evacuation",2025-06-17,33,0.81
+113,64,"Confined Space Entry",2025-05-26,12,0.76
+114,65,"Emergency Evacuation",2025-06-13,18,0.97
+115,67,"Emergency Evacuation",2024-05-04,15,0.76
+116,70,"Emergency Evacuation",2026-06-29,19,0.75
+117,72,"First Aid & CPR",2025-01-23,34,0.78
+118,72,"Confined Space Entry",2026-05-11,6,0.91
+119,72,"First Aid & CPR",2026-01-02,40,0.85
+120,75,WHMIS,2025-01-27,17,0.95
+121,75,"Fire Extinguisher Use",2026-01-11,23,0.81
+122,76,"Emergency Evacuation",2025-10-18,25,0.99
+123,76,"Fire Extinguisher Use",2026-03-16,37,0.87
+124,77,"Emergency Evacuation",2024-07-18,40,0.83
+125,77,"Confined Space Entry",2024-11-19,31,0.96
+126,77,"Fire Extinguisher Use",2024-01-04,11,0.8
+127,79,"Emergency Evacuation",2024-01-04,30,0.84
+128,79,WHMIS,2026-01-30,22,0.9
+129,79,"Fire Extinguisher Use",2024-12-05,33,0.75
+130,81,"First Aid & CPR",2025-03-08,32,0.82
+131,81,"Fire Extinguisher Use",2025-10-24,9,0.85
+132,81,WHMIS,2026-06-07,28,0.77
+133,83,"Fire Extinguisher Use",2026-04-07,23,0.86
+134,84,"First Aid & CPR",2025-09-20,11,0.95
+135,84,"Confined Space Entry",2025-04-25,22,0.76
+136,86,"Emergency Evacuation",2025-03-16,40,0.85
+137,86,WHMIS,2025-07-21,17,0.79
+138,87,"First Aid & CPR",2025-09-13,15,0.86
+139,87,"Confined Space Entry",2024-08-27,5,0.88
+140,87,"Confined Space Entry",2025-06-16,40,0.97
+141,89,"First Aid & CPR",2026-03-11,38,0.9
+142,89,"Fire Extinguisher Use",2025-01-14,28,0.95
+143,89,"Emergency Evacuation",2025-01-06,32,0.86
+144,91,"Fire Extinguisher Use",2025-12-10,29,0.9
+145,91,"Fire Extinguisher Use",2024-03-30,13,0.78
+146,91,"First Aid & CPR",2026-05-19,27,0.99
+147,92,"Fire Extinguisher Use",2024-11-05,29,0.99
+148,94,"Fire Extinguisher Use",2026-03-13,13,0.87
+149,94,"Confined Space Entry",2024-11-17,26,0.99
+150,96,"First Aid & CPR",2024-10-24,36,0.93
+151,96,"First Aid & CPR",2024-10-30,13,0.85
+152,96,"Fire Extinguisher Use",2024-04-08,16,0.89
+153,97,"Fire Extinguisher Use",2025-09-15,22,0.93
+154,98,"First Aid & CPR",2024-09-29,13,0.79
+155,98,"Confined Space Entry",2025-05-03,14,0.83
+156,98,"First Aid & CPR",2024-02-24,9,0.95
+157,99,WHMIS,2024-05-15,28,0.78
+158,99,WHMIS,2025-11-28,40,0.82
+159,100,WHMIS,2025-03-21,7,0.94
+160,100,"Fire Extinguisher Use",2026-05-15,13,0.89
+161,100,WHMIS,2025-05-23,13,0.96
+162,104,WHMIS,2025-02-23,19,0.82
+163,104,"First Aid & CPR",2024-06-24,8,0.8
+164,104,WHMIS,2026-05-17,13,0.97
+165,105,"Emergency Evacuation",2025-07-27,37,0.9
+166,106,"Fire Extinguisher Use",2024-04-01,5,0.87
+167,106,"Emergency Evacuation",2024-06-13,38,0.92
+168,107,"Fire Extinguisher Use",2024-05-19,20,1.0
+169,107,"First Aid & CPR",2025-07-09,9,0.98
+170,107,"Fire Extinguisher Use",2025-05-08,28,0.77
+171,108,"Fire Extinguisher Use",2024-04-03,40,0.78
+172,108,"Fire Extinguisher Use",2025-09-17,28,0.79
+173,109,"Fire Extinguisher Use",2024-11-18,11,0.8
+174,109,"Fire Extinguisher Use",2026-01-31,10,0.84
+175,109,"Fire Extinguisher Use",2026-04-20,33,0.89
+176,110,"Fire Extinguisher Use",2025-04-18,7,0.77
+177,111,"Fire Extinguisher Use",2024-01-05,25,0.99
+178,111,"Fire Extinguisher Use",2026-06-17,21,0.88
+179,111,"Confined Space Entry",2025-12-29,24,0.83
+180,112,"Emergency Evacuation",2026-03-27,19,0.89
+181,112,"First Aid & CPR",2025-08-30,34,0.89
+182,113,WHMIS,2024-05-14,31,0.9
+183,114,"Fire Extinguisher Use",2025-02-27,35,0.96
+184,114,"Confined Space Entry",2026-03-23,10,0.93
+185,115,"Emergency Evacuation",2026-04-04,35,0.83
+186,117,"Fire Extinguisher Use",2024-09-21,9,0.83
+187,118,"Confined Space Entry",2025-11-10,27,0.9
+188,119,"Fire Extinguisher Use",2025-04-24,16,0.97
+189,120,"First Aid & CPR",2024-09-19,28,0.88

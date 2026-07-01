@@ -1,0 +1,93 @@
+CustomerName,Industry,SessionsDelivered,TotalAttendees,AvgPassRatePct
+"Anderson Group",Construction,1,30,86.0
+Anderson-Bailey,Manufacturing,3,72,80.0
+"Arroyo, Miller and Tucker",Construction,3,55,81.7
+"Baxter Inc",Manufacturing,3,94,95.7
+"Bentley, Byrd and Orr",Healthcare,3,57,91.7
+"Brooks, Lam and Hayes",Manufacturing,3,56,82.0
+"Brown, Valdez and Lucas",Warehousing,1,22,84.0
+"Burton Ltd",Education,3,81,86.7
+Carlson-Cruz,Mining,1,7,100.0
+"Carroll, Sullivan and Bass",Warehousing,2,68,78.5
+"Chambers and Sons",Construction,2,45,94.5
+Chandler-Edwards,"Oil & Gas",1,22,93.0
+"Chapman and Sons",Education,3,100,93.0
+"Cortez LLC",Retail,3,40,86.3
+"Daniels, Adkins and Brown",Retail,1,7,93.0
+"Davis Group",Manufacturing,3,80,84.7
+Donovan-Harris,"Oil & Gas",2,60,82.0
+"Dyer, Potter and Mack",Construction,1,27,95.0
+"Edwards, Baker and Anderson",Manufacturing,2,42,82.5
+"Ellis, Baker and Wright",Warehousing,1,26,78.0
+"Evans, Stewart and Walton",Healthcare,2,54,85.5
+"Ferrell, Jones and Lewis",Manufacturing,3,34,87.0
+"Ferrell, Rice and Maddox",Mining,3,53,85.3
+"Figueroa PLC",Education,2,40,88.0
+"Garcia, Humphrey and Baker",Manufacturing,1,15,76.0
+"Gibson Ltd",Construction,1,9,83.0
+Gomez-Jenkins,Retail,2,39,80.5
+"Gray Group",Mining,1,37,81.0
+"Hancock Inc",Warehousing,1,24,92.0
+"Hancock and Sons",Healthcare,1,23,86.0
+"Harrell LLC",Healthcare,1,28,83.0
+"Harris, Collins and Carney",Healthcare,3,36,88.0
+Harris-Walters,"Oil & Gas",1,19,75.0
+"Harvey, Davis and Crane",Warehousing,1,31,90.0
+Henderson-Bernard,Mining,3,49,91.0
+"Hernandez Inc",Education,1,35,83.0
+"Hernandez Ltd",Retail,1,16,97.0
+"Hickman Ltd",Warehousing,1,8,81.0
+House-Glover,Healthcare,2,29,91.5
+"Jackson, Miller and Robertson",Warehousing,2,53,89.0
+Johnson-Carlson,Retail,3,65,89.0
+Johnson-Doyle,Construction,2,33,85.5
+"Johnston, Sanchez and Kennedy",Mining,2,35,83.0
+"Jones Inc","Oil & Gas",3,85,89.3
+"Jones Inc",Warehousing,2,43,88.5
+"Joyce, Wilson and Lam",Healthcare,3,36,85.7
+"Lawson, Morris and Ramos",Mining,1,7,77.0
+"Lee, Horton and Snyder",Construction,1,27,90.0
+Lee-Davis,Construction,3,70,88.3
+"Lewis, Kennedy and Santana",Mining,3,70,90.0
+"Martin, Rose and Obrien","Oil & Gas",3,57,84.3
+"Mckee, Gardner and Davenport",Construction,3,82,86.3
+Mitchell-Jordan,"Oil & Gas",3,54,84.3
+Moore-Bass,Mining,1,12,76.0
+Morton-Chase,Warehousing,2,46,82.0
+Nolan-Flynn,"Oil & Gas",3,85,83.0
+"Novak PLC","Oil & Gas",3,29,88.0
+"Novak and Sons",Manufacturing,1,8,81.0
+"Parker, Ortiz and Powell",Healthcare,1,37,90.0
+"Patterson, Smith and Jones",Retail,2,62,93.0
+"Powell LLC",Education,2,47,91.5
+"Rasmussen LLC",Retail,1,29,99.0
+"Rivera, Johnson and Wiley",Construction,2,39,93.0
+"Robinson, Jones and Welch",Manufacturing,2,39,96.0
+"Rodriguez LLC",Manufacturing,3,95,88.7
+"Rodriguez, Brennan and Garrison","Oil & Gas",3,60,90.3
+Rodriguez-Graham,Retail,1,31,80.0
+"Romero, Gonzalez and Brooks",Retail,1,21,77.0
+"Ross LLC",Construction,3,69,89.0
+"Ross, Robinson and Bright",Retail,3,60,82.7
+"Russell Group",Manufacturing,3,82,90.3
+"Ryan PLC",Retail,2,13,83.5
+"Ryan, Burgess and Patterson",Warehousing,3,90,91.3
+Sandoval-Cunningham,Warehousing,3,64,93.3
+"Scott Ltd",Education,2,68,80.0
+"Shields, Cochran and Adams","Oil & Gas",2,57,82.0
+"Smith PLC",Mining,3,71,88.0
+Smith-Bowen,Healthcare,3,23,94.3
+Smith-Frost,Healthcare,3,33,93.0
+"Snyder, Campos and Callahan",Warehousing,1,27,81.0
+"Spence PLC",Mining,1,30,89.0
+Spencer-Lee,Healthcare,2,43,89.5
+"Stafford Inc",Education,1,28,88.0
+"Stanley, Tucker and Lee",Retail,3,55,88.7
+Torres-Pope,Warehousing,3,98,90.3
+"Turner, Riggs and Roman",Construction,1,18,97.0
+"Walker LLC",Mining,3,50,86.7
+"Washington, Ryan and Cummings",Healthcare,3,47,88.3
+"Williams PLC",Manufacturing,1,32,93.0
+"Woods, Calhoun and Schmidt",Manufacturing,1,7,100.0
+"Wright, Garcia and Deleon",Healthcare,3,69,81.3
+"Yu Inc",Retail,1,25,96.0

@@ -1,0 +1,118 @@
+IncidentMonth,Industry,Severity,IncidentCount
+2024-01,Healthcare,High,1
+2024-01,Healthcare,Medium,1
+2024-01,Manufacturing,Critical,1
+2024-01,Manufacturing,High,1
+2024-01,Mining,Medium,1
+2024-01,Warehousing,Critical,2
+2024-02,Education,Medium,1
+2024-02,Mining,Low,1
+2024-02,Retail,Medium,1
+2024-03,Construction,High,1
+2024-03,Manufacturing,Medium,1
+2024-04,Construction,Low,1
+2024-04,Manufacturing,Critical,1
+2024-04,Manufacturing,Medium,1
+2024-04,Mining,Critical,1
+2024-04,Mining,Low,1
+2024-04,"Oil & Gas",Low,1
+2024-04,"Oil & Gas",Medium,1
+2024-04,Warehousing,Low,1
+2024-05,Construction,Critical,1
+2024-05,Construction,Low,1
+2024-05,Construction,Medium,1
+2024-05,Healthcare,Medium,1
+2024-05,Mining,High,1
+2024-05,Mining,Low,1
+2024-06,Construction,Critical,2
+2024-06,Education,High,1
+2024-06,Healthcare,High,1
+2024-06,Manufacturing,Medium,1
+2024-06,Mining,Critical,1
+2024-06,"Oil & Gas",Medium,1
+2024-06,Retail,High,1
+2024-06,Retail,Low,1
+2024-06,Retail,Medium,1
+2024-07,"Oil & Gas",Medium,1
+2024-07,Retail,Critical,1
+2024-07,Retail,Low,1
+2024-07,Warehousing,High,1
+2024-08,Healthcare,High,1
+2024-08,Manufacturing,Low,2
+2024-08,Mining,High,2
+2024-08,Retail,Critical,1
+2024-08,Retail,Low,1
+2024-09,Healthcare,Low,1
+2024-09,Healthcare,Medium,1
+2024-09,Manufacturing,Critical,1
+2024-09,Mining,Critical,1
+2024-09,"Oil & Gas",Low,1
+2024-09,Retail,Critical,1
+2024-09,Warehousing,Critical,2
+2024-09,Warehousing,Low,1
+2024-10,"Oil & Gas",Low,1
+2024-10,Retail,Critical,1
+2024-10,Retail,High,1
+2024-11,Education,High,1
+2024-11,Retail,Low,2
+2024-11,Warehousing,Critical,1
+2024-12,Healthcare,Medium,1
+2024-12,Mining,High,1
+2024-12,Retail,Medium,1
+2025-01,Construction,Medium,1
+2025-01,Healthcare,High,1
+2025-01,Healthcare,Medium,1
+2025-01,Mining,Medium,1
+2025-02,Mining,Medium,1
+2025-02,Retail,Low,2
+2025-02,Retail,Medium,1
+2025-03,Manufacturing,High,1
+2025-03,Warehousing,Low,1
+2025-04,"Oil & Gas",Low,1
+2025-04,Warehousing,Critical,1
+2025-05,Manufacturing,Critical,1
+2025-05,Retail,Critical,1
+2025-05,Retail,High,1
+2025-06,Mining,Critical,1
+2025-06,Mining,Low,1
+2025-07,Retail,High,1
+2025-07,Retail,Medium,1
+2025-07,Warehousing,Low,1
+2025-08,Healthcare,Low,1
+2025-08,Mining,Medium,1
+2025-08,"Oil & Gas",High,1
+2025-08,Retail,Critical,1
+2025-09,Healthcare,Critical,1
+2025-09,Healthcare,Low,1
+2025-09,Manufacturing,Low,1
+2025-09,Retail,Low,1
+2025-10,Healthcare,High,1
+2025-10,Healthcare,Medium,1
+2025-10,Manufacturing,Medium,1
+2025-10,"Oil & Gas",Low,1
+2025-10,Warehousing,Critical,1
+2025-10,Warehousing,High,1
+2025-10,Warehousing,Medium,1
+2025-11,Healthcare,Low,2
+2025-11,Manufacturing,Critical,1
+2025-11,Retail,Low,1
+2025-11,Warehousing,Low,1
+2025-12,Construction,High,1
+2025-12,Warehousing,High,2
+2026-01,"Oil & Gas",Critical,1
+2026-02,Healthcare,Critical,1
+2026-02,Mining,Critical,1
+2026-02,"Oil & Gas",Low,1
+2026-02,Retail,Critical,1
+2026-03,Warehousing,High,1
+2026-04,Construction,Critical,1
+2026-04,Manufacturing,Critical,1
+2026-04,Manufacturing,High,1
+2026-04,Manufacturing,Low,1
+2026-04,Manufacturing,Medium,1
+2026-04,"Oil & Gas",High,1
+2026-04,Retail,Low,1
+2026-04,Warehousing,Medium,1
+2026-06,Education,Low,1
+2026-06,Healthcare,Medium,1
+2026-06,Mining,Low,1

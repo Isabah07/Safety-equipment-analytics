@@ -1,0 +1,40 @@
+Region,Industry,TotalEquipment,CompliantCount,OverdueCount,CompliancePct
+Atlantic,Construction,7,2,5,28.6
+Atlantic,Education,33,21,12,63.6
+Atlantic,Healthcare,52,34,18,65.4
+Atlantic,Manufacturing,68,43,25,63.2
+Atlantic,Mining,21,14,7,66.7
+Atlantic,"Oil & Gas",20,13,7,65.0
+Atlantic,Retail,47,30,17,63.8
+Atlantic,Warehousing,88,45,43,51.1
+"British Columbia",Construction,51,30,21,58.8
+"British Columbia",Education,20,14,6,70.0
+"British Columbia",Healthcare,68,40,28,58.8
+"British Columbia",Manufacturing,63,41,22,65.1
+"British Columbia",Mining,46,26,20,56.5
+"British Columbia","Oil & Gas",3,2,1,66.7
+"British Columbia",Retail,84,41,43,48.8
+"British Columbia",Warehousing,43,27,16,62.8
+Ontario,Construction,44,27,17,61.4
+Ontario,Education,5,2,3,40.0
+Ontario,Healthcare,20,12,8,60.0
+Ontario,Manufacturing,64,36,28,56.3
+Ontario,Mining,70,34,36,48.6
+Ontario,"Oil & Gas",92,48,44,52.2
+Ontario,Warehousing,48,26,22,54.2
+Prairies,Construction,31,18,13,58.1
+Prairies,Education,47,28,19,59.6
+Prairies,Healthcare,52,30,22,57.7
+Prairies,Manufacturing,12,11,1,91.7
+Prairies,Mining,13,8,5,61.5
+Prairies,"Oil & Gas",23,14,9,60.9
+Prairies,Retail,27,12,15,44.4
+Prairies,Warehousing,5,3,2,60.0
+Quebec,Construction,40,23,17,57.5
+Quebec,Education,24,17,7,70.8
+Quebec,Healthcare,66,46,20,69.7
+Quebec,Manufacturing,41,28,13,68.3
+Quebec,Mining,111,73,38,65.8
+Quebec,"Oil & Gas",38,19,19,50.0
+Quebec,Retail,49,31,18,63.3
+Quebec,Warehousing,42,26,16,61.9

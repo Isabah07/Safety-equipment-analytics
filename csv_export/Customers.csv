@@ -1,0 +1,122 @@
+CustomerID,CustomerName,Industry,Region,ContractType
+1,"Ellis, Baker and Wright",Warehousing,Atlantic,Annual
+2,"Ryan, Burgess and Patterson",Warehousing,Ontario,Multi-Year
+3,"Ross, Robinson and Bright",Retail,Atlantic,Annual
+4,"Snyder, Campos and Callahan",Warehousing,"British Columbia",Per-Visit
+5,"Burton Ltd",Education,Quebec,Per-Visit
+6,Carlson-Cruz,Mining,Prairies,Per-Visit
+7,"Ferrell, Rice and Maddox",Mining,Quebec,Multi-Year
+8,"Frazier Inc",Healthcare,Quebec,Per-Visit
+9,"Dyer, Potter and Mack",Construction,"British Columbia",Multi-Year
+10,Rodriguez-Graham,Retail,Atlantic,Annual
+11,Smith-Bowen,Healthcare,"British Columbia",Multi-Year
+12,"Baker, Mason and White","Oil & Gas",Ontario,Annual
+13,"Harrell LLC",Healthcare,Quebec,Per-Visit
+14,"Romero, Gonzalez and Brooks",Retail,"British Columbia",Annual
+15,"Ryan PLC",Retail,Prairies,Per-Visit
+16,"George Group",Mining,"British Columbia",Multi-Year
+17,"Rodriguez LLC",Manufacturing,Ontario,Per-Visit
+18,Allen-Allen,Construction,Atlantic,Annual
+19,"Arroyo, Miller and Tucker",Construction,Prairies,Annual
+20,"Spence PLC",Mining,Ontario,Per-Visit
+21,"Anderson Group",Construction,"British Columbia",Annual
+22,"Martin, Rose and Obrien","Oil & Gas",Atlantic,Per-Visit
+23,"Hickman Ltd",Warehousing,Quebec,Multi-Year
+24,"Harris, Collins and Carney",Healthcare,"British Columbia",Per-Visit
+25,"Brooks, Lam and Hayes",Manufacturing,"British Columbia",Multi-Year
+26,"Walker LLC",Mining,Ontario,Annual
+27,"Chapman and Sons",Education,Atlantic,Annual
+28,"Robinson, Jones and Welch",Manufacturing,Quebec,Per-Visit
+29,"Jones Inc","Oil & Gas",Ontario,Per-Visit
+30,Jones-Young,Mining,Ontario,Per-Visit
+31,"Washington, Ryan and Cummings",Healthcare,Quebec,Per-Visit
+32,"Johnston, Sanchez and Kennedy",Mining,"British Columbia",Annual
+33,Lee-Davis,Construction,"British Columbia",Per-Visit
+34,Gomez-Jenkins,Retail,Quebec,Per-Visit
+35,"Brown, Valdez and Lucas",Warehousing,Atlantic,Multi-Year
+36,"Powell LLC",Education,Prairies,Per-Visit
+37,"Wright and Sons",Mining,Ontario,Annual
+38,"West, Henderson and Ramirez",Warehousing,Ontario,Multi-Year
+39,"Baxter Inc",Manufacturing,"British Columbia",Per-Visit
+40,Morton-Chase,Warehousing,"British Columbia",Annual
+41,"Williams PLC",Manufacturing,Ontario,Per-Visit
+42,"Novak and Sons",Manufacturing,Quebec,Annual
+43,"Russell Group",Manufacturing,Atlantic,Annual
+44,"Hancock Inc",Warehousing,Atlantic,Per-Visit
+45,"Gray Group",Mining,Quebec,Per-Visit
+46,House-Glover,Healthcare,"British Columbia",Per-Visit
+47,Henderson-Bernard,Mining,Quebec,Multi-Year
+48,"Stanley, Tucker and Lee",Retail,Quebec,Annual
+49,"Novak PLC","Oil & Gas",Prairies,Multi-Year
+50,"Daniels, Adkins and Brown",Retail,Prairies,Multi-Year
+51,"Woods, Calhoun and Schmidt",Manufacturing,Ontario,Annual
+52,"Yu Inc",Retail,Atlantic,Annual
+53,"Jones Inc",Warehousing,Quebec,Annual
+54,"Hensley, Powell and David",Mining,Quebec,Multi-Year
+55,"Sanchez, Wheeler and Harvey",Healthcare,Atlantic,Multi-Year
+56,Sandoval-Cunningham,Warehousing,Ontario,Multi-Year
+57,Donovan-Harris,"Oil & Gas",Ontario,Per-Visit
+58,"Edwards, Baker and Anderson",Manufacturing,Ontario,Annual
+59,"Evans, Stewart and Walton",Healthcare,Prairies,Multi-Year
+60,"Smith PLC",Mining,Quebec,Multi-Year
+61,"Ferrell, Jones and Lewis",Manufacturing,Quebec,Multi-Year
+62,Anderson-Bailey,Manufacturing,Prairies,Multi-Year
+63,"Suarez LLC",Mining,Atlantic,Multi-Year
+64,Moore-Bass,Mining,Quebec,Annual
+65,"Turner, Riggs and Roman",Construction,Quebec,Annual
+66,"Smith, Montoya and Evans",Manufacturing,Atlantic,Annual
+67,"Garcia, Humphrey and Baker",Manufacturing,"British Columbia",Multi-Year
+68,"Newton and Sons",Healthcare,Ontario,Per-Visit
+69,Campbell-Clark,"Oil & Gas",Quebec,Annual
+70,Harris-Walters,"Oil & Gas",Quebec,Multi-Year
+71,Wagner-King,"Oil & Gas","British Columbia",Annual
+72,"Davis Group",Manufacturing,"British Columbia",Annual
+73,Williams-Cook,Retail,"British Columbia",Per-Visit
+74,"Walsh LLC",Education,Atlantic,Annual
+75,"Figueroa PLC",Education,Quebec,Multi-Year
+76,"Patterson, Smith and Jones",Retail,Quebec,Per-Visit
+77,"Mckee, Gardner and Davenport",Construction,Prairies,Multi-Year
+78,"Tran, Jordan and Williams","Oil & Gas",Ontario,Multi-Year
+79,Nolan-Flynn,"Oil & Gas",Ontario,Per-Visit
+80,"Nolan and Sons",Warehousing,"British Columbia",Multi-Year
+81,"Wright, Garcia and Deleon",Healthcare,Atlantic,Annual
+82,Dickson-Brady,Warehousing,Atlantic,Multi-Year
+83,"Hancock and Sons",Healthcare,Prairies,Per-Visit
+84,Johnson-Doyle,Construction,"British Columbia",Per-Visit
+85,Patton-Jenkins,Manufacturing,"British Columbia",Multi-Year
+86,"Shields, Cochran and Adams","Oil & Gas",Quebec,Multi-Year
+87,"Rodriguez, Brennan and Garrison","Oil & Gas",Ontario,Per-Visit
+88,"Gonzalez Group",Healthcare,Atlantic,Multi-Year
+89,Torres-Pope,Warehousing,Atlantic,Annual
+90,"Walker Ltd",Construction,"British Columbia",Multi-Year
+91,"Ross LLC",Construction,Ontario,Annual
+92,"Rasmussen LLC",Retail,Atlantic,Annual
+93,May-Ross,Manufacturing,Atlantic,Annual
+94,"Rivera, Johnson and Wiley",Construction,Quebec,Per-Visit
+95,White-Estes,Mining,"British Columbia",Per-Visit
+96,Johnson-Carlson,Retail,"British Columbia",Annual
+97,Chandler-Edwards,"Oil & Gas",Ontario,Per-Visit
+98,"Joyce, Wilson and Lam",Healthcare,"British Columbia",Annual
+99,"Scott Ltd",Education,"British Columbia",Per-Visit
+100,Smith-Frost,Healthcare,Prairies,Annual
+101,"Mcdaniel, Bentley and Mclaughlin",Manufacturing,Atlantic,Multi-Year
+102,"Diaz Inc",Manufacturing,Atlantic,Annual
+103,"Mccall, Hanson and Alvarado",Warehousing,Ontario,Multi-Year
+104,"Cortez LLC",Retail,"British Columbia",Per-Visit
+105,"Parker, Ortiz and Powell",Healthcare,Quebec,Annual
+106,Spencer-Lee,Healthcare,Prairies,Annual
+107,"Bentley, Byrd and Orr",Healthcare,Atlantic,Multi-Year
+108,"Carroll, Sullivan and Bass",Warehousing,Atlantic,Annual
+109,Mitchell-Jordan,"Oil & Gas",Prairies,Annual
+110,"Lawson, Morris and Ramos",Mining,Quebec,Annual
+111,"Lewis, Kennedy and Santana",Mining,Atlantic,Multi-Year
+112,"Jackson, Miller and Robertson",Warehousing,Quebec,Annual
+113,"Harvey, Davis and Crane",Warehousing,Prairies,Multi-Year
+114,"Chambers and Sons",Construction,Ontario,Multi-Year
+115,"Hernandez Inc",Education,"British Columbia",Multi-Year
+116,"Riggs PLC",Education,Ontario,Annual
+117,"Gibson Ltd",Construction,Quebec,Per-Visit
+118,"Lee, Horton and Snyder",Construction,Ontario,Annual
+119,"Hernandez Ltd",Retail,Atlantic,Per-Visit
+120,"Stafford Inc",Education,Prairies,Per-Visit
+121,"",Retail,Ontario,Annual

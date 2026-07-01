@@ -1,0 +1,26 @@
+TechnicianID,FullName,Region,CertificationLevel,InspectionsCompleted,FailedInspections,TotalDeficienciesFound,AvgDeficienciesPerInspection
+4,"Daniel Wagner",Prairies,"Level 1",147,20,116,0.79
+22,"Patty Perez",Atlantic,"Level 2",139,10,106,0.76
+16,"Brian Ramirez","British Columbia","Level 3",134,15,117,0.87
+12,"Jamie Arnold",Prairies,"Level 1",129,7,121,0.94
+5,"Cristian Santos",Ontario,"Level 2",127,9,105,0.83
+13,"Lisa Hensley",Atlantic,"Level 3",127,11,112,0.88
+23,"Ethan Adams",Ontario,"Level 2",127,12,86,0.68
+6,"Connie Lawrence","British Columbia","Level 1",126,11,103,0.82
+15,"Dylan Miller",Ontario,"Level 3",126,10,89,0.71
+25,"Matthew Foster",Prairies,"Level 3",124,5,65,0.52
+7,"Abigail Shaffer",Quebec,"Master Technician",123,7,78,0.63
+17,"Holly Wood",Quebec,"Level 1",123,10,129,1.05
+9,"Gabrielle Davis",Quebec,"Master Technician",120,9,71,0.59
+11,"Monica Herrera",Atlantic,"Level 1",115,8,98,0.85
+21,"Margaret Hawkins DDS",Atlantic,"Level 2",115,11,95,0.83
+24,"Tommy Walter",Quebec,"Level 2",114,11,106,0.93
+8,"Gina Moore",Prairies,"Level 3",113,8,91,0.81
+19,"Lisa Jackson",Quebec,"Level 1",113,9,72,0.64
+3,"Angie Henderson",Ontario,"Level 1",112,13,65,0.58
+10,"Ryan Munoz",Atlantic,"Level 2",111,7,90,0.81
+14,"Michele Williams",Prairies,"Level 1",111,13,88,0.79
+18,"Derek Zuniga",Quebec,"Level 3",109,10,85,0.78
+20,"Carla Gray",Atlantic,"Master Technician",108,6,86,0.8
+1,"Allison Hill",Ontario,"Level 1",106,11,68,0.64
+2,"Noah Rhodes",Quebec,"Level 2",106,8,83,0.78
