@@ -12,19 +12,18 @@ provider like Levitt-Safety.
   Equipment, Inspections, Technicians, Incidents, TrainingSessions)
   representing a realistic field-services business.
 - **SQL query & view development** — 6 optimized reporting views
-  (`sql/01_views.sql`) covering compliance rates, overdue equipment,
+  covering compliance rates, overdue equipment,
   technician performance, incident trends, customer risk scoring, and
   training coverage.
 - **Data quality validation** — a 5-check SQL validation suite
-  (`sql/02_data_quality_checks.sql`) that catches broken foreign keys,
+  that catches broken foreign keys,
   missing required fields, duplicate records, and logical inconsistencies.
 - **Power BI-ready design** — data exported to `csv_export/` for direct
   Dataflow ingestion, with a full Power Query (M) and DAX build guide in
   `POWER_BI_GUIDE.md`.
-- **Dashboard prototype** — `dashboard.html`, an interactive Chart.js
-  mockup of the finished report (compliance by region, incident severity,
-  technician performance, top-risk accounts) for fast visual iteration
-  before building the same pages natively in Power BI.
+- **Dashboard** — an interactive Power BI dashboard of the finished report
+  (compliance by region, incident severity,
+  technician performance, top-risk accounts) for fast visualization and decision-making.
 
 ## Project structure
 
@@ -36,8 +35,7 @@ safety-analytics-project/
 │   ├── 01_views.sql           # reporting views
 │   └── 02_data_quality_checks.sql
 ├── csv_export/                # tables + views exported for Power BI
-├── dashboard_data.json        # aggregated data feeding the prototype
-├── dashboard.html             # interactive dashboard prototype
+├── dashboard.pbix             # interactive dashboard 
 ├── POWER_BI_GUIDE.md          # Power Query M + DAX build guide
 └── README.md
 ```
