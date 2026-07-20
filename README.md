@@ -29,8 +29,8 @@ provider like Levitt-Safety.
 
 ```
 safety-analytics-project/
-├── generate_data.py           # synthetic data generator (Faker + SQLite)
-├── safety_analytics.db        # SQLite database (source of truth)
+├── generate_data.py           # synthetic data generator 
+├── safety_analytics.db        # SQL database 
 ├── sql/
 │   ├── 01_views.sql           # reporting views
 │   └── 02_data_quality_checks.sql
