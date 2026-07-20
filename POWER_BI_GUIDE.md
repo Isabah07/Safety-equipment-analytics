@@ -81,14 +81,6 @@ RETURN (OverdueRatio * 100 * 0.6) + (IncidentPenalty * 0.4)
 - **Incident & Risk** — trend line of incidents by month/severity,
   table of top-risk customer accounts sorted by `Customer Risk Score`.
 
-## 5. Data quality gate
-
-Before publishing, run `sql/02_data_quality_checks.sql` against the
-source database (or its Power BI equivalent using Power Query's
-`Table.SelectRows` filters) and confirm all checks return 0 issues,
-except where intentionally flagged for review.
 
 ---
-`dashboard.html` in this repo is a static prototype (Chart.js) that mirrors
-what the finished Power BI report should show, useful for reviewing the
-visual design before building it natively in Power BI.
+
