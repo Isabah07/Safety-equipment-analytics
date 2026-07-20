@@ -40,14 +40,3 @@ safety-analytics-project/
 └── README.md
 ```
 
-## How to reproduce
-
-```bash
-pip install faker
-python3 generate_data.py                       # builds safety_analytics.db
-sqlite3 safety_analytics.db < sql/01_views.sql  # creates reporting views
-sqlite3 safety_analytics.db < sql/02_data_quality_checks.sql  # validate
-```
-
-Then open `dashboard.html` in a browser, or follow `POWER_BI_GUIDE.md` to
-load `csv_export/*.csv` into Power BI Desktop.
