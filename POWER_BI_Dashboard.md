@@ -1,8 +1,8 @@
-# Power BI Build Guide
+# Power BI Dashboard
 
-This project is designed so the SQL layer (done) plugs directly into Power BI
-Dataflows and a report. Follow these steps in Power BI Desktop to complete
-the build.
+This project is designed so the SQL can be directly run into Power BI
+Dataflows and a report. Following steps in Power BI Desktop was completed
+to build the dashboard.
 
 ## 1. Load data as a Dataflow
 
